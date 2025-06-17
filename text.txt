@@ -1,0 +1,27 @@
+✅ You now have:
+Functional task creation
+
+Mark-as-done feature
+
+Delete button
+
+Persistent local storage
+
+
+Now your app supports:
+
+✅ Filtering tasks by status
+
+✅ Clearing all completed
+
+✅ Enhanced productivity controls
+
+✅ Result:
+Your To-Do list UI will now:
+
+Float over the background image with a soft blur (like macOS or modern UIs).
+
+Keep good readability.
+
+Look sleek, modern, and clean on all devices.
+
